@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diplomski</string>
+    <string name="DMenuOption1">New Game</string>
+    <string name="DMenuOption2">Tutorial</string>
+    <string name="DMenuOption3">Exit</string>
+
+</resources>
